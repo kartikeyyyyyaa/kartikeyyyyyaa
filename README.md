@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+things+that+probably+shouldn't+exist+in+a+10-hour+hackathon+window;ML+%2B+full-stack+%2B+a+dangerous+amount+of+WebGL;Currently%3A+drone+swarms%2C+grid+forecasting%2C+and+city-scale+CCTV+analytics;Dark+UI+enjoyer+%E2%80%94+if+it+doesn't+glow+a+little%2C+it's+not+done"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=CSE+undergrad+who+treats+every+deadline+as+a+creative+constraint;ML+%2B+full-stack+%2B+a+dangerous+amount+of+WebGL;Currently%3A+drone+swarms%2C+grid+forecasting%2C+and+city-scale+CCTV+analytics;Dark+UI+enjoyer+%E2%80%94+if+it+doesn't+glow+a+little%2C+it's+not+done"/>
 
 </div>
 
