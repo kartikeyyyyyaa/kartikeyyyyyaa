@@ -24,7 +24,7 @@ I'm a CSE undergrad who ended up specializing in **shipping ambitious, visually-
 - 🧠 Comfortable moving between ML/data problems and low-level systems concerns (security, infra, real-time pipelines)
 - 🎨 Have a soft spot for interfaces that feel over-engineered on purpose — glassmorphism, custom GLSL shaders, animated 3D scenes
 - ⚡ Optimize for "working and impressive" over "minimal and safe," especially on the clock
-- 📫 Reach me at **kartikeyashukla0907@gmail.com**
+- 📫 Reach me at **kartikeyyyyyaaa@gmail.com**
 
 <br/>
 
