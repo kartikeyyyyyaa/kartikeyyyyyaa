@@ -122,8 +122,6 @@ An AI accountability agent (The Ken's Case Competition 2026) that diagnoses *why
 
 <img src="https://raw.githubusercontent.com/kartikeyyyyyaa/kartikeyyyyyaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-*(renders automatically once the workflow in this repo runs — see setup notes)*
-
 </div>
 
 <br/>
